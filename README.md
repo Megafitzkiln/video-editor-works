@@ -35,4 +35,4 @@ The release provided here is scanned before it's published.
 - **Proxy Workflow:** Automatic proxy generation for smooth editing of high-resolution footage.
 
 ## A note on usage
-> This project is shared as-is. All product names and logos belong to their respective owners.     
+> This project is shared as-is. All product names and logos belong to their respective owners.      
